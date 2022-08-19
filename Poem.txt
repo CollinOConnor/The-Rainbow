@@ -6,4 +6,4 @@ Blue
 Green
 Yellow
 Red
-these are the colors of the rainbow.
+These are the colors of the rainbow.

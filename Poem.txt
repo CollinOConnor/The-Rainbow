@@ -8,5 +8,5 @@ Green
 Unicorn
 Yellow
 Red
-these are the colors of the rainbow.
+These are the colors of the rainbow.
 And the unicorn
